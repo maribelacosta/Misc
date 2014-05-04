@@ -1,0 +1,10 @@
+.content { width: 400px; margin: 0 auto;}
+
+#input { float: left; }
+
+#target {
+  background: #ccc;
+  float: right;
+  height: 30px;
+  width: 200px;
+}
